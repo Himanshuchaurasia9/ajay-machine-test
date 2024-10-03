@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27371757920",
+    "project_id": "uxeloft-7ec44",
+    "storage_bucket": "uxeloft-7ec44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27371757920:android:b7a0ac2fb0a5525f39be05",
+        "android_client_info": {
+          "package_name": "machinetest.com.machine_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6f3KW_C-uBBZ8VDxs6DbWULUwkkVhOZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
